@@ -1,0 +1,2 @@
+# Vezba3
+funkcije
